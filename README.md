@@ -5,7 +5,7 @@
 - 💼 Currently seeking opportunities in data-driven roles where I can contribute to impactful projects and continue learning. 
 - 📊 Tools I enjoy working with: Python, SQL, Power BI, Excel, and machine learning libraries like Scikit-learn and TensorFlow.
 - 📬 Feel free to reach out at: ruchitapatel194@gmail.com
-- Let’s connect and collaborate on data, tech, or innovation!
+Let’s connect and collaborate on data, tech, or innovation!
 <!--
 **ruchitapatel194/ruchitapatel194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
