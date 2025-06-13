@@ -1,11 +1,11 @@
 ## Hi there 👋
-🎓 Postgraduate in Artificial Intelligence & Machine Learning (April 2025) 
-📡 Bachelor’s in Electronics & Communication (June 2021) 
-🔍 Aspiring Data Analyst | Data Scientist | Business Intelligence Enthusiast
-Hi there! I’m passionate about turning data into insights and solving real-world problems using machine learning, analytics, and visualization. With a strong foundation in AI and a background in electronics, I bridge the gap between complex systems and business decision-making.
-💼 Currently seeking opportunities in data-driven roles where I can contribute to impactful projects and continue learning. 
-📊 Tools I enjoy working with: Python, SQL, Power BI, Excel, and machine learning libraries like Scikit-learn and TensorFlow.
-📬 Feel free to reach out at: ruchitapatel194@gmail.com Let’s connect and collaborate on data, tech, or innovation!
+- 🎓 Postgraduate in Artificial Intelligence & Machine Learning (April 2025) 
+- 📡 Bachelor’s in Electronics & Communication (June 2021) 
+- 🔍 Aspiring Data Analyst | Data Scientist | Business Intelligence Enthusiast
+- Hi there! I’m passionate about turning data into insights and solving real-world problems using machine learning, analytics, and visualization. With a strong foundation in AI and a background in electronics, I bridge the gap between complex systems and business decision-making.
+- 💼 Currently seeking opportunities in data-driven roles where I can contribute to impactful projects and continue learning. 
+- 📊 Tools I enjoy working with: Python, SQL, Power BI, Excel, and machine learning libraries like Scikit-learn and TensorFlow.
+- 📬 Feel free to reach out at: ruchitapatel194@gmail.com Let’s connect and collaborate on data, tech, or innovation!
 <!--
 **ruchitapatel194/ruchitapatel194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
